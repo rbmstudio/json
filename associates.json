@@ -1,0 +1,36 @@
+{
+   "Associates":[
+      {
+         "name":"Jane",
+         "surname":"Smith"
+      },
+      {
+         "name":"Bob",
+         "surname":"Jones"
+      },
+      {
+         "name":"Ann",
+         "surname":"Smith"
+      },
+      {
+         "name":"Alice",
+         "surname":"Jones"
+      },
+      {
+         "name":"Peter",
+         "surname":"Smith"
+      },
+      {
+         "name":"Mary",
+         "surname":"Jones"
+      },
+      {
+         "name":"Fred",
+         "surname":"Smith"
+      },
+      {
+         "name":"Simon",
+         "surname":"Jones"
+      }
+   ]
+}
