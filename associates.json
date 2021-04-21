@@ -1,36 +1,76 @@
 {
    "Associates":[
       {
-         "name":"Jane",
+         "name":"Ad",
+         "surname":"Aderet"
+      },
+      {
+         "name":"Tadashi",
+         "surname":"Arai"
+      },
+      {
+         "name":"Nicola",
+         "surname":"Carnevali"
+      },
+      {
+         "name":"Hamish",
+         "surname":"Crockett"
+      },
+      {
+         "name":"Lu-Min",
+         "surname":"Guo"
+      },
+      {
+         "name":"Nandi",
+         "surname":"Han"
+      },
+      {
+         "name":"Matt",
+         "surname":"Jackson"
+      },
+      {
+         "name":"Will",
+         "surname":"Jefferies"
+      },
+      {
+         "name":"Mark",
+         "surname":"Ng"
+      },
+      {
+         "name":"Lucie",
+         "surname":"Olivier"
+      },
+      {
+         "name":"Joseph",
+         "surname":"Park"
+      },
+      {
+         "name":"Mark",
+         "surname":"Rintoul"
+      },
+      {
+         "name":"Michael",
+         "surname":"Rudko"
+      },
+      {
+         "name":"Harjinder",
+         "surname":"Singh"
+      },
+      {
+         "name":"Misha",
          "surname":"Smith"
       },
       {
-         "name":"Bob",
-         "surname":"Jones"
+         "name":"Soki",
+         "surname":"So"
       },
       {
-         "name":"Ann",
-         "surname":"Smith"
+         "name":"James",
+         "surname":"Stopps"
       },
       {
-         "name":"Alice",
-         "surname":"Jones"
-      },
-      {
-         "name":"Peter",
-         "surname":"Smith"
-      },
-      {
-         "name":"Mary",
-         "surname":"Jones"
-      },
-      {
-         "name":"Fred",
-         "surname":"Smith"
-      },
-      {
-         "name":"Simon",
-         "surname":"Jones"
+         "name":"Emily",
+         "surname":"Wilkinson"
       }
    ]
 }
